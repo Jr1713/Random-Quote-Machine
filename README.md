@@ -11,10 +11,6 @@ Live demo (on CodePen): [Random Quote Machine by jr-delfin](https://codepen.io/j
 1. Features  
 2. Tools / Technologies Used  
 3. How It Works  
-4. Project Structure  
-5. Usage / Instructions  
-6. Possible Enhancements  
-7. License
 
 ---
 
